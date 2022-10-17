@@ -1,8 +1,9 @@
 - 👋 Olá, me chamo Soraia.
-- 👀 Gosto de viajar, estudar, praticar esportes, aprender idiomas. Também sou professora de inglês e português brasileiro.
-- 🌱 Meus projetos foram desenvolvidos em HTML, CSS e Javascript.
-- 💞️ Iniciei uma colaboração em um projeto Back-End, para conhecer o outro lado da força.
+- 👀 Gosto de viajar, estudar, praticar esportes, aprender idiomas. 
+- 🌱 Meus projetos foram desenvolvidos em HTML, CSS e Javascript...
+- 💞️ E iniciei uma colaboração em um projeto Back-End.🚀
 - 🌎 Você também me encontra no LinkedIn: https://www.linkedin.com/in/soraiacbarbosa/.
+
 
 
 
